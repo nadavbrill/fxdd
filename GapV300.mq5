@@ -14,7 +14,7 @@
 #include <Lib CisNewBar.mqh>
 CisNewBar current_chart; // instance of the CisNewBar class: current chart
 
- 
+//test nadav
 //-----------------------------------------------
 
 #define MODE_LOW 1
